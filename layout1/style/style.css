@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+header{
+overflow: hidden;
+}
+.header_logo{
+    width: 20%;
+    background-color: brown;
+    color: white;
+    float: left;
+    height: 50px;
+    text-align: center;
+    
+}
+.header_banner{
+    width: 80%;
+    background-color: blueviolet;
+    color: white;
+    float: right;
+    height: 50px;
+    text-align: center;
+}
+.header_bar{
+    overflow: hidden;
+}
+.bar{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+.content{
+    overflow: hidden;
+}
+.left_content{
+    width: 20%;
+    height: 550px;
+    background-color: aqua;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.middle_content{
+    width: 60%;
+    height: 550px;
+    background-color: chartreuse;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.right_content{
+    width: 20%;
+    height: 550px;
+    background-color: crimson;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.top{
+    background-color: darkseagreen;
+    height: 30%;
+
+}
+.middle{
+    overflow: hidden;
+    background-color: fuchsia;
+    height: 40%;
+}
+.bottom{
+    background-color: gold;
+    height: 30%;
+    
+}
+.middle_left{
+background-color: darkgreen;
+height: 100%;
+width: 50%;
+float: left;
+}
+.middle_right{
+background-color: rgb(0, 255, 13);
+height: 100%;
+width: 50%;
+float: right;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 54px;
+}
